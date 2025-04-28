@@ -1,4 +1,3 @@
-# src/beeai_agents/react_agent.py
 # Copyright 2025 © BeeAI a Series of LF Projects, LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

@@ -16,6 +16,7 @@ dependencies = [
 
 [project.scripts]
 server = "beeai_agents.server:server"
+react_server = "beeai_agents.react_server:server"
 
 [build-system]
 requires = ["hatchling"]
