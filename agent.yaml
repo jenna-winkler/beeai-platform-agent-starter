@@ -1,5 +1,5 @@
 manifestVersion: 1
-name: "example-agent"
+name: "react-agent"
 
 ui:
   type: hands-off
